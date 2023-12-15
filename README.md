@@ -1,8 +1,8 @@
-# Web Programming COM204
+# Web Programming COM204 README.md
 
 <!-- Heading -->
 ## Heading 1
-### Headning 2
+### Heading 2
 #### Heading 3
 ##### Heading 4
 
