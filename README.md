@@ -28,8 +28,6 @@ __This text__ is Italic
 <!--Links-->
 [My GitHub](https://github.com/murateshimov/web-programming)
 
-[My GitHub](https://github.com/murateshimov/web-programming " GitHub")  
-
 <!--UL-->
 * Item 1
 * Item 2
