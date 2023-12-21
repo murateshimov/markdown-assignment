@@ -58,7 +58,7 @@ public class Main {
   }
 }
 ```
-```html
+```HTML
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,8 +100,8 @@ for fizzbuzz in range(51):
 
 <!-- Task LIst -->
 # Task List to do Part 1
-* [x] Create repository on Github
-* [x] Add README.md with the name of repository, date of creation and author
+* [x] Create a repository on GitHub
+* [x] Add README.md with the name of the repository, date of creation, and author
 * [x] In DEADME.md (Headers, block of code, an image)
 
 
